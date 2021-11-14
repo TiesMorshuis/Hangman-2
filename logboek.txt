@@ -1,0 +1,32 @@
+Door: Ties Morshuis, H5A
+logboek 
+4 okt. 2021: Eerste versie ingeleverd
+11 okt. 2021: Tweede versie ingeleverd
+updates:
+-6 okt.: Turtle aangepast, Fouten laten zien, letters automatisch klein maken
+-8 okt.: Hele woord raden toegevoegd
+-11 okt.: Verschillende woord niveaus toegevoegd, foutieve invoer gefixt
+-12 okt.: Foutieve invoer gefixt
+-2 nov.: Global statements weggehaald, grote functies opgedeeld in kleinere functies en meer commentaar toegevoegd
+
+bugs:
+-Geen
+
+gefixte bugs:
+-lege plek in lijst bij woord niveau
+-tekens of meerdere letters tegelijk invoeren gefixt
+-foutieve invoer
+
+to-do: 
+-Geen
+
+afgemaakt:
+-hele woord in 1 keer raden
+-aantal fouten laten zien
+-turtle aangepast zodat het niet in conflict komt met afgelopen speler
+-ingevoerde letter in lowercase maken
+-woord niveaus toegevoegd
+-global statements weggehaald
+-opgedeeld in kleinere functies
+-meer commentaar/overzichtelijker maken
+

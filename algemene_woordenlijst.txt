@@ -1,0 +1,36 @@
+Niveau 1 (index 1 - 6)
+fiets
+appel
+auto
+pizza
+taart
+rugzak
+
+Niveau 2 (index 9 - 14)
+zen
+machine
+computer
+horloge
+botox
+turquoise
+
+niveau 3 (index 17 - 21)
+juwelier
+quinoa
+liquidatie
+parfumeriezaak
+niqaab
+
+niveau 4 (index 24 - 35)
+angstschreeuw
+jazzzangeres
+dosisequivalent
+achterbandventiel
+ooggetuigenverslag
+beenmergpunctie
+huisvuilverbrandingsinstallatie
+identificatienummer
+zoutwateraquarium
+chronischevermoeidheidssyndroom
+zandzeepsodemineraalwatersteenstralen
+przewalskipaard
